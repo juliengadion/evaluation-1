@@ -11,15 +11,23 @@ body {
 
 .tittle {
   text-align: left;;
-  padding-top: 2em;
+  
 }
 
 h2 {
-color: white;
+color: rgb(255, 254, 254);
 text-align: center;
 background-color: rgb(19, 161, 226);
 padding-top: 2em;
 padding-bottom: 2em;
+}
+
+.test {
+  background-color: blueviolet;
+}
+
+.input {
+  background-color: chartreuse;
 }
 
 .hey {
