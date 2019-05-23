@@ -15,10 +15,15 @@ body {
 }
 
 h2 {
+color: white;
 text-align: center;
 background-color: rgb(19, 161, 226);
 padding-top: 2em;
 padding-bottom: 2em;
+}
+
+.hey {
+  color:rgb(19, 161, 226);
 }
 
 
